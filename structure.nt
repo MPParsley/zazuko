@@ -2,11 +2,10 @@
 <http://stad.gent/zazuko/Stadgent/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
 <http://stad.gent/zazuko/Stadgent/> <http://www.w3.org/2000/01/rdf-schema#label> "Stad Gent" .
 <http://stad.gent/zazuko/Stadgent/> <http://www.w3.org/2000/01/rdf-schema#comment> "Ontologieën in beheer van Stad Gent" .
-<http://stad.gent/zazuko/District09/> <http://schema.org/hasPart> <http://stad.gent/zazuko/domein/Burgerzaken> .
+<http://stad.gent/zazuko/District09/> <http://schema.org/hasPart> <http://stad.gent/zazuko/domein/Sportwebsite> .
 <http://stad.gent/zazuko/District09/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
 <http://stad.gent/zazuko/District09/> <http://www.w3.org/2000/01/rdf-schema#label> "District09" .
 <http://stad.gent/zazuko/District09/> <http://www.w3.org/2000/01/rdf-schema#comment> "Ontologieën in beheer van District09" .
-<http://stad.gent/zazuko/District09/> <http://schema.org/hasPart> <http://stad.gent/zazuko/domein/Sportwebsite> .
 <http://stad.gent/zazuko/domein/Burgerzaken> <http://purl.org/dc/terms/modified> "2022-02-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://stad.gent/zazuko/domein/Burgerzaken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
 <http://stad.gent/zazuko/domein/Burgerzaken> <http://www.w3.org/2000/01/rdf-schema#label> "Burgerzaken" .
