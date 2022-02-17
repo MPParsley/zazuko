@@ -1,1 +1,3 @@
-
+<http://stad.gent/zazuko/burgerzaken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://stad.gent/zazuko/burgerzaken> <http://www.w3.org/2000/01/rdf-schema#label> "Burgerzaken" .
+<http://stad.gent/zazuko/burgerzaken> <http://www.w3.org/2000/01/rdf-schema#comment> "Documenten en administratieve zaken die belangrijk zijn in het leven van elke burger." .
