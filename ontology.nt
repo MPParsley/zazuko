@@ -1,3 +1,6 @@
+<http://srvlodtest01.gentgrp.gent.be:3000/schema/Balsporten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://srvlodtest01.gentgrp.gent.be:3000/schema/Balsporten> <http://www.w3.org/2000/01/rdf-schema#comment> "Balsporten" .
+<http://srvlodtest01.gentgrp.gent.be:3000/schema/Balsporten> <http://www.w3.org/2000/01/rdf-schema#label> "Balsporten" .
 <http://srvlodtest01.gentgrp.gent.be:3000/schema/Burger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://srvlodtest01.gentgrp.gent.be:3000/schema/Burger> <http://www.w3.org/2000/01/rdf-schema#comment> "Een burger is cool" .
 <http://srvlodtest01.gentgrp.gent.be:3000/schema/Burger> <http://www.w3.org/2000/01/rdf-schema#label> "Burger" .
