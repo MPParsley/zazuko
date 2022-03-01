@@ -4,6 +4,10 @@
 <http://srvlodtest01.gentgrp.gent.be:3000/schema/Burger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://srvlodtest01.gentgrp.gent.be:3000/schema/Burger> <http://www.w3.org/2000/01/rdf-schema#comment> "Een burger is cool" .
 <http://srvlodtest01.gentgrp.gent.be:3000/schema/Burger> <http://www.w3.org/2000/01/rdf-schema#label> "Burger" .
+<http://srvlodtest01.gentgrp.gent.be:3000/schema/intensiviteit> <http://schema.org/domainIncludes> <http://srvlodtest01.gentgrp.gent.be:3000/schema/Balsporten> .
+<http://srvlodtest01.gentgrp.gent.be:3000/schema/intensiviteit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://srvlodtest01.gentgrp.gent.be:3000/schema/intensiviteit> <http://www.w3.org/2000/01/rdf-schema#comment> "Intensiviteit" .
+<http://srvlodtest01.gentgrp.gent.be:3000/schema/intensiviteit> <http://www.w3.org/2000/01/rdf-schema#label> "Intensiviteit" .
 <http://srvlodtest01.gentgrp.gent.be:3000/schema/Tennis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://srvlodtest01.gentgrp.gent.be:3000/schema/Tennis> <http://www.w3.org/2000/01/rdf-schema#comment> "Tennis" .
 <http://srvlodtest01.gentgrp.gent.be:3000/schema/Tennis> <http://www.w3.org/2000/01/rdf-schema#label> "Tennis" .
