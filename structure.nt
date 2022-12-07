@@ -19,3 +19,18 @@
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/Stadgent/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/Stadgent/> <http://www.w3.org/2000/01/rdf-schema#comment> "Ontologieën in beheer van Stad Gent" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/Stadgent/> <http://www.w3.org/2000/01/rdf-schema#label> "Stad Gent" .
+
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/MobiliteitOpenbareWerken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/MobiliteitOpenbareWerken> <http://www.w3.org/2000/01/rdf-schema#comment> "Ontologieën met betrekking tot mobiliteit en openbare werken" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/MobiliteitOpenbareWerken> <http://www.w3.org/2000/01/rdf-schema#label> "Mobiliteit & openbare werken" .
+
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/MobiliteitOpenbareWerken> <http://schema.org/hasPart> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Openbaardomein> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/MobiliteitOpenbareWerken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/MobiliteitOpenbareWerken> <http://www.w3.org/2000/01/rdf-schema#comment> "Thematische entiteiten en eigenschappen voor het beschrijven en inventariseren van fysieke objecten op het openbaar domein." .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/MobiliteitOpenbareWerken> <http://www.w3.org/2000/01/rdf-schema#label> "Openbaar Domein" .
+
+
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/MobiliteitOpenbareWerken> <http://schema.org/hasPart> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Infrastructuurelementen> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/MobiliteitOpenbareWerken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/MobiliteitOpenbareWerken> <http://www.w3.org/2000/01/rdf-schema#comment> "Applicatieprofiel met betrekking tot Infrastructuurelementen." .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/MobiliteitOpenbareWerken> <http://www.w3.org/2000/01/rdf-schema#label> "Infrastructuurelementen" .
