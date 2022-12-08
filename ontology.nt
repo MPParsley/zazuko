@@ -8,7 +8,6 @@
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/einddatum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/einddatum> <http://www.w3.org/2000/01/rdf-schema#comment> "Datum waarop de huidige versie van het gebied of object uit gebruik wordt genomen." .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/einddatum> <http://www.w3.org/2000/01/rdf-schema#label> "einddatum" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/geometrie> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Straatmeubilair> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/geometrie> <http://schema.org/rangeIncludes> <http://www.opengis.net/ont/geosparql#Geometry> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/geometrie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/geometrie> <http://www.w3.org/2000/01/rdf-schema#comment> "Datum waarop de huidige versie van het gebied of object uit gebruik wordt genomen." .
@@ -30,7 +29,13 @@
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Locatie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Locatie> <http://www.w3.org/2000/01/rdf-schema#comment> "coördinaten" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Locatie> <http://www.w3.org/2000/01/rdf-schema#label> "Locatie" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/nauwkeurigheid> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Straatmeubilair> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/nauwkeurigheid> <http://schema.org/rangeIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Nauwkeurigheidsklassen> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/nauwkeurigheid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/nauwkeurigheid> <http://www.w3.org/2000/01/rdf-schema#comment> "nauwkeurigheid" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/nauwkeurigheid> <http://www.w3.org/2000/01/rdf-schema#label> "nauwkeurigheid" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Nauwkeurigheidsklassen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Nauwkeurigheidsklassen> <http://www.w3.org/2000/01/rdf-schema#comment> "Nauwkeurigheidsklassen" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Nauwkeurigheidsklassen> <http://www.w3.org/2000/01/rdf-schema#comment> "Relatieve nauwkeurigheid of standaardafwijking van 100 cm." .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Nauwkeurigheidsklassen> <http://www.w3.org/2000/01/rdf-schema#label> "Nauwkeurigheidsklassen" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/niveau> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Straatmeubilair> .
