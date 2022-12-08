@@ -15,6 +15,11 @@
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Balsporten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Balsporten> <http://www.w3.org/2000/01/rdf-schema#comment> "Balsporten" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Balsporten> <http://www.w3.org/2000/01/rdf-schema#label> "Balsporten" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/beheerder> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Straatmeubilair> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/beheerder> <http://schema.org/rangeIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Organisatie> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/beheerder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/beheerder> <http://www.w3.org/2000/01/rdf-schema#comment> "Beheerder" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/beheerder> <http://www.w3.org/2000/01/rdf-schema#label> "Beheerder" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Burger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Burger> <http://www.w3.org/2000/01/rdf-schema#comment> "Een burger is cool" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Burger> <http://www.w3.org/2000/01/rdf-schema#label> "Burger" .
@@ -42,6 +47,9 @@
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/niveau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/niveau> <http://www.w3.org/2000/01/rdf-schema#comment> "Het niveau waarop het object zich bevindt, relatief ten opzichte van andere objecten." .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/niveau> <http://www.w3.org/2000/01/rdf-schema#label> "niveau" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Organisatie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Organisatie> <http://www.w3.org/2000/01/rdf-schema#comment> "organisatie" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Organisatie> <http://www.w3.org/2000/01/rdf-schema#label> "Organisatie" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/point> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Locatie> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/point> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/point> <http://www.w3.org/2000/01/rdf-schema#comment> "geosparql:asWKT" .
