@@ -43,7 +43,7 @@
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/einddatum> <http://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#datetime> .
 
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/geometrie> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Straatmeubilair> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/geometrie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class>  .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/geometrie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/geometrie> <http://www.w3.org/2000/01/rdf-schema#comment> "Datum waarop de huidige versie van het gebied of object uit gebruik wordt genomen." .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/geometrie> <http://www.w3.org/2000/01/rdf-schema#label> "geometrie" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/geometrie> <http://schema.org/rangeIncludes> <http://www.opengis.net/ont/geosparql#Geometry> .
