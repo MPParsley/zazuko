@@ -19,10 +19,17 @@
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Burger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Burger> <http://www.w3.org/2000/01/rdf-schema#comment> "Een burger is cool" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Burger> <http://www.w3.org/2000/01/rdf-schema#label> "Burger" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/id> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Locatie> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/id> <http://www.w3.org/2000/01/rdf-schema#comment> "GeoCoordinates id" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/id> <http://www.w3.org/2000/01/rdf-schema#label> "Id" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/intensiviteit> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Balsporten> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/intensiviteit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/intensiviteit> <http://www.w3.org/2000/01/rdf-schema#comment> "Intensiviteit" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/intensiviteit> <http://www.w3.org/2000/01/rdf-schema#label> "Intensiviteit" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Locatie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Locatie> <http://www.w3.org/2000/01/rdf-schema#comment> "coördinaten" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Locatie> <http://www.w3.org/2000/01/rdf-schema#label> "Locatie" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Nauwkeurigheidsklassen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Nauwkeurigheidsklassen> <http://www.w3.org/2000/01/rdf-schema#comment> "Relatieve nauwkeurigheid of standaardafwijking van 100 cm." .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Nauwkeurigheidsklassen> <http://www.w3.org/2000/01/rdf-schema#label> "Nauwkeurigheidsklassen" .
@@ -30,6 +37,10 @@
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/niveau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/niveau> <http://www.w3.org/2000/01/rdf-schema#comment> "Het niveau waarop het object zich bevindt, relatief ten opzichte van andere objecten." .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/niveau> <http://www.w3.org/2000/01/rdf-schema#label> "niveau" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/point> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Locatie> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/point> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/point> <http://www.w3.org/2000/01/rdf-schema#comment> "geosparql:asWKT" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/point> <http://www.w3.org/2000/01/rdf-schema#label> "Point" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Straatmeubilair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Straatmeubilair> <http://www.w3.org/2000/01/rdf-schema#comment> "Straatmeubilair is een diverse groep van objecten die in het algemeen in de openbare ruimte staan (zowel corridor- als surplusgebied)." .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Straatmeubilair> <http://www.w3.org/2000/01/rdf-schema#label> "Straatmeubilair" .
