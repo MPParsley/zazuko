@@ -16,7 +16,6 @@
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Balsporten> <http://www.w3.org/2000/01/rdf-schema#comment> "Balsporten" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Balsporten> <http://www.w3.org/2000/01/rdf-schema#label> "Balsporten" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/beheerder> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Straatmeubilair> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/beheerder> <http://schema.org/rangeIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Organisatie> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/beheerder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/beheerder> <http://www.w3.org/2000/01/rdf-schema#comment> "Beheerder" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/beheerder> <http://www.w3.org/2000/01/rdf-schema#label> "Beheerder" .
@@ -66,6 +65,12 @@
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/testje> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/testje> <http://www.w3.org/2000/01/rdf-schema#comment> "testje" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/testje> <http://www.w3.org/2000/01/rdf-schema#label> "testje" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/voorkeursnaam> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Organisatie> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/voorkeursnaam> <http://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/voorkeursnaam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/voorkeursnaam> <http://www.w3.org/2000/01/rdf-schema#comment> "Voorkeursnaam" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/voorkeursnaam> <http://www.w3.org/2000/01/rdf-schema#label> "Voorkeursnaam" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/voorkeursnaam> <http://www.w3.org/2004/02/skos/core#example> "@prefix skos: <http://www.w3.org/2004/02/skos/core#> .\n<organisatie> skos:prefLabel \"voorkeursnaam\" ." .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Zwemmen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Zwemmen> <http://www.w3.org/2000/01/rdf-schema#comment> "dit is een test" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Zwemmen> <http://www.w3.org/2000/01/rdf-schema#label> "Zwemmen" .
