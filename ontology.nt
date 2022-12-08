@@ -46,6 +46,7 @@
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Zwemmen> <http://www.w3.org/2000/01/rdf-schema#comment> "dit is een test" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Zwemmen> <http://www.w3.org/2000/01/rdf-schema#label> "Zwemmen" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/verplaatsbaar> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Straatmeubilair> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/verplaatsbaar> <http://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#boolean> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/verplaatsbaar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/verplaatsbaar> <http://www.w3.org/2000/01/rdf-schema#comment> "Duidt aan of het element al dan niet verplaatsbaar is en dus niet permanent verankerd werd met het aardoppervlak.	" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/verplaatsbaar> <http://www.w3.org/2000/01/rdf-schema#label> "verplaatsbaar" .
