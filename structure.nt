@@ -33,3 +33,5 @@
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Infrastructuurelementen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Infrastructuurelementen> <http://www.w3.org/2000/01/rdf-schema#comment> "Applicatieprofiel met betrekking tot Infrastructuurelementen." .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Infrastructuurelementen> <http://www.w3.org/2000/01/rdf-schema#label> "Infrastructuurelementen" .
+
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Infrastructuurelementen> <http://schema.org/hasPart> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Straatmeubilair> .
