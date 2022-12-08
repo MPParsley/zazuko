@@ -23,6 +23,9 @@
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/intensiviteit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/intensiviteit> <http://www.w3.org/2000/01/rdf-schema#comment> "Intensiviteit" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/intensiviteit> <http://www.w3.org/2000/01/rdf-schema#label> "Intensiviteit" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Nauwkeurigheidsklassen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Nauwkeurigheidsklassen> <http://www.w3.org/2000/01/rdf-schema#comment> "Relatieve nauwkeurigheid of standaardafwijking van 100 cm." .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Nauwkeurigheidsklassen> <http://www.w3.org/2000/01/rdf-schema#label> "Nauwkeurigheidsklassen" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/niveau> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Straatmeubilair> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/niveau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/niveau> <http://www.w3.org/2000/01/rdf-schema#comment> "Het niveau waarop het object zich bevindt, relatief ten opzichte van andere objecten." .
