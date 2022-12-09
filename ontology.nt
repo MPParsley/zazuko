@@ -1,61 +1,13 @@
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/begindatum> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Straatmeubilair> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/begindatum> <http://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#datetime> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/begindatum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/begindatum> <http://www.w3.org/2000/01/rdf-schema#comment> "Datum waarop de huidige versie van het gebied of object in gebruik wordt genomen." .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/begindatum> <http://www.w3.org/2000/01/rdf-schema#label> "begindatum" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/einddatum> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Straatmeubilair> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/einddatum> <http://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#datetime> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/einddatum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/einddatum> <http://www.w3.org/2000/01/rdf-schema#comment> "Datum waarop de huidige versie van het gebied of object uit gebruik wordt genomen." .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/einddatum> <http://www.w3.org/2000/01/rdf-schema#label> "einddatum" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/geometrie> <http://schema.org/rangeIncludes> <http://www.opengis.net/ont/geosparql#Geometry> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/geometrie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/geometrie> <http://www.w3.org/2000/01/rdf-schema#comment> "Datum waarop de huidige versie van het gebied of object uit gebruik wordt genomen." .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/geometrie> <http://www.w3.org/2000/01/rdf-schema#label> "geometrie" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Balsporten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Balsporten> <http://www.w3.org/2000/01/rdf-schema#comment> "Balsporten" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Balsporten> <http://www.w3.org/2000/01/rdf-schema#label> "Balsporten" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/beheerder> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Straatmeubilair> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/beheerder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/beheerder> <http://www.w3.org/2000/01/rdf-schema#comment> "Beheerder" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/beheerder> <http://www.w3.org/2000/01/rdf-schema#label> "Beheerder" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Burger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Burger> <http://www.w3.org/2000/01/rdf-schema#comment> "Een burger is cool" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Burger> <http://www.w3.org/2000/01/rdf-schema#label> "Burger" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/id> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Locatie> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/id> <http://www.w3.org/2000/01/rdf-schema#comment> "GeoCoordinates id" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/id> <http://www.w3.org/2000/01/rdf-schema#label> "Id" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/intensiviteit> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Balsporten> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/intensiviteit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/intensiviteit> <http://www.w3.org/2000/01/rdf-schema#comment> "Intensiviteit" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/intensiviteit> <http://www.w3.org/2000/01/rdf-schema#label> "Intensiviteit" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Locatie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Locatie> <http://www.w3.org/2000/01/rdf-schema#comment> "coördinaten" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Locatie> <http://www.w3.org/2000/01/rdf-schema#label> "Locatie" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/nauwkeurigheid> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Straatmeubilair> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/nauwkeurigheid> <http://schema.org/rangeIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Nauwkeurigheidsklassen> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/nauwkeurigheid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/nauwkeurigheid> <http://www.w3.org/2000/01/rdf-schema#comment> "nauwkeurigheid" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/nauwkeurigheid> <http://www.w3.org/2000/01/rdf-schema#label> "nauwkeurigheid" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Nauwkeurigheidsklassen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Nauwkeurigheidsklassen> <http://www.w3.org/2000/01/rdf-schema#comment> "Nauwkeurigheidsklassen" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Nauwkeurigheidsklassen> <http://www.w3.org/2000/01/rdf-schema#comment> "Relatieve nauwkeurigheid of standaardafwijking van 100 cm." .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Nauwkeurigheidsklassen> <http://www.w3.org/2000/01/rdf-schema#label> "Nauwkeurigheidsklassen" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/niveau> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Straatmeubilair> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/niveau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/niveau> <http://www.w3.org/2000/01/rdf-schema#comment> "Het niveau waarop het object zich bevindt, relatief ten opzichte van andere objecten." .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/niveau> <http://www.w3.org/2000/01/rdf-schema#label> "niveau" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Organisatie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Organisatie> <http://www.w3.org/2000/01/rdf-schema#comment> "organisatie" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Organisatie> <http://www.w3.org/2000/01/rdf-schema#label> "Organisatie" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/point> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Locatie> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/point> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/point> <http://www.w3.org/2000/01/rdf-schema#comment> "geosparql:asWKT" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/point> <http://www.w3.org/2000/01/rdf-schema#label> "Point" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Straatmeubilair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Straatmeubilair> <http://www.w3.org/2000/01/rdf-schema#comment> "Straatmeubilair is een diverse groep van objecten die in het algemeen in de openbare ruimte staan (zowel corridor- als surplusgebied)." .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Straatmeubilair> <http://www.w3.org/2000/01/rdf-schema#label> "Straatmeubilair" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Tennis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Tennis> <http://www.w3.org/2000/01/rdf-schema#comment> "Tennis" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Tennis> <http://www.w3.org/2000/01/rdf-schema#label> "Tennis" .
@@ -65,17 +17,6 @@
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/testje> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/testje> <http://www.w3.org/2000/01/rdf-schema#comment> "testje" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/testje> <http://www.w3.org/2000/01/rdf-schema#label> "testje" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/voorkeursnaam> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Organisatie> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/voorkeursnaam> <http://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/voorkeursnaam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/voorkeursnaam> <http://www.w3.org/2000/01/rdf-schema#comment> "Voorkeursnaam" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/voorkeursnaam> <http://www.w3.org/2000/01/rdf-schema#label> "Voorkeursnaam" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/voorkeursnaam> <http://www.w3.org/2004/02/skos/core#example> "@prefix skos: <http://www.w3.org/2004/02/skos/core#> .\n<organisatie> skos:prefLabel \"voorkeursnaam\" ." .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Zwemmen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Zwemmen> <http://www.w3.org/2000/01/rdf-schema#comment> "dit is een test" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Zwemmen> <http://www.w3.org/2000/01/rdf-schema#label> "Zwemmen" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/verplaatsbaar> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Straatmeubilair> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/verplaatsbaar> <http://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#boolean> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/verplaatsbaar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/verplaatsbaar> <http://www.w3.org/2000/01/rdf-schema#comment> "Duidt aan of het element al dan niet verplaatsbaar is en dus niet permanent verankerd werd met het aardoppervlak.	" .
-<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/verplaatsbaar> <http://www.w3.org/2000/01/rdf-schema#label> "verplaatsbaar" .
