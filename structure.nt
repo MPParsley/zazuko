@@ -1,5 +1,6 @@
 <http://editor.zazuko.com/_datasetVersion> <http://schema.org/version> "6" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/District09/> <http://schema.org/hasPart> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Sportwebsite> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/District09/> <http://schema.org/hasPart> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Visit.gent> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/District09/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/District09/> <http://www.w3.org/2000/01/rdf-schema#comment> "Ontologieën in beheer van District09" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/District09/> <http://www.w3.org/2000/01/rdf-schema#label> "District09" .
@@ -15,6 +16,11 @@
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Sportwebsite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Sportwebsite> <http://www.w3.org/2000/01/rdf-schema#comment> "Ontologieën die gebruikt worden binnen de sportwebsite." .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Sportwebsite> <http://www.w3.org/2000/01/rdf-schema#label> "Sportwebsite" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Visit.gent> <http://purl.org/dc/terms/modified> "2023-01-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Visit.gent> <http://schema.org/hasPart> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/POI> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Visit.gent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Visit.gent> <http://www.w3.org/2000/01/rdf-schema#comment> "Ontologieën die gebruikt worden binnen de Visit.gent." .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Visit.gent> <http://www.w3.org/2000/01/rdf-schema#label> "Visit.gent" .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/Stadgent/> <http://schema.org/hasPart> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Burgerzaken> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/Stadgent/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
 <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/Stadgent/> <http://www.w3.org/2000/01/rdf-schema#comment> "Ontologieën in beheer van Stad Gent" .
